@@ -1,0 +1,18 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "Show File Address",
+                "command": "addressbar"
+            },
+            {
+                "caption": "-"
+            },
+        ]
+    }
+]
