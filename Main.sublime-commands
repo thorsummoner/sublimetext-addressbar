@@ -1,0 +1,4 @@
+[
+	{"caption": "Show File Address", "command": "addressbar"},
+	{"caption": "Show File Path", "command": "addressbar"},
+]
